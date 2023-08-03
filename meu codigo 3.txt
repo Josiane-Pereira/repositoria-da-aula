@@ -1,2 +1,4 @@
-Comando para adicioanr varios arquivos de uma so vez
+Comando para adicionar varios arquivos de uma so vez
 
+
+modificação do arquivo para aprendizado.
