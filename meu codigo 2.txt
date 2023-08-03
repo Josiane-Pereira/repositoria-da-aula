@@ -1,0 +1,7 @@
+Primeira aula de git github
+
+comandos iniciais
+
+git init
+git status
+git add
