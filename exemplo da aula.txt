@@ -1,1 +1,3 @@
-Exemplo da aula online para criaçãõ de brancha
+Exemplo da aula online para criação de branch
+
+alterando o codigo para continuar o exemplo do curso
