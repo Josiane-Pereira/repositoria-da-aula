@@ -1,0 +1,1 @@
+Quando eu nao quero enviar para o meu repositorio git ignore
